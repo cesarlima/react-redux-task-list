@@ -1,0 +1,6 @@
+export const ADD_TASK = 'ADD_TASK'
+export const DELETE_TASK = 'DELETE_TASK'
+export const LOAD_TASKS = 'LOAD_TASKS'
+export const COMPLETED_TASK = 'TOGGLE_TASK'
+export const CLEAR_TASK = 'CLEAR_TASK'
+export const DESCRIPTION_CHANGED = 'DESCRIPTION_CHANGED'
